@@ -111,5 +111,3 @@ Project/
 ```
 
 ---
-
-Untuk pertanyaan atau issue, silakan hubungi tim QA.
