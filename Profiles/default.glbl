@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Kafka server address</description>
+      <initValue>'localhost:9092'</initValue>
+      <name>KAFKA_BOOTSTRAP_SERVERS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kafka topic name</description>
+      <initValue>'test-topic'</initValue>
+      <name>KAFKA_TOPIC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Consumer group ID</description>
+      <initValue>'katalon-test-group'</initValue>
+      <name>KAFKA_GROUP_ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Timeout in milliseconds</description>
+      <initValue>10000</initValue>
+      <name>KAFKA_CONSUMER_TIMEOUT</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

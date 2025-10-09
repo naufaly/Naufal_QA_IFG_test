@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Kafka Consumer - Katalon as Consumer</description>
+   <name>TC_Kafka_Consumer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7a8b9c0-d1e2-3456-f123-456789012345</testCaseGuid>
+</TestCaseEntity>
