@@ -111,3 +111,6 @@ Project/
 ```
 
 ---
+
+Untuk pertanyaan atau issue, silakan hubungi Email Saya atau Whatsapp saya ya, Terimakasih.
+
